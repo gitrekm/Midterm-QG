@@ -73,3 +73,8 @@
 2013-07-17 13:50:32,421 INFO: errors [in /Users/michaelherman/Desktop/flask-basic-registration/app/__init__.py:25]
 2013-07-17 14:12:40,209 INFO: errors [in /Users/michaelherman/Desktop/flask-basic-registration/app/__init__.py:25]
 2013-07-17 14:12:40,634 INFO: errors [in /Users/michaelherman/Desktop/flask-basic-registration/app/__init__.py:25]
+2019-10-09 22:53:50,318 INFO: errors [in /home/deepdive/tests/flask-stripe/app/__init__.py:25]
+2019-10-09 22:54:20,180 INFO: errors [in /home/deepdive/tests/flask-stripe/app/__init__.py:25]
+2019-10-09 22:54:20,316 INFO: errors [in /home/deepdive/tests/flask-stripe/app/__init__.py:25]
+2019-10-09 22:59:24,526 INFO: errors [in /home/deepdive/tests/flask-stripe/app/__init__.py:25]
+2019-10-09 22:59:24,650 INFO: errors [in /home/deepdive/tests/flask-stripe/app/__init__.py:25]
